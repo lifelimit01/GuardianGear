@@ -31,8 +31,8 @@
 ## Tabla de historias de usuario
 | Id | Historia de usuario | Prioridad | Estimación | Como probarlo | Responsable |
 |----|---------------------|-----------|------------|---------------|-------------|
-|  HU001 |Yo como borracho quiero que el dispositivo me proporcione una mezcla de refresco, bebida alcoholica y agua mineral al presionar un solo botón para continuar la peda | Debe, Puede, Podria, NO| 5 |  El borracho deposita su vaso en el deposito y presiona el botón de servir en el dispositivo  y este entrega bebida mezclada | Ramon Sanchez | 
-|    |                     |           |            |               |             |
+|  HU001 | Yo Ricardo Alexis quiero que el dispositivo envie un mensaje de texto (SMS) a un familiar o medico de confianza. |Debe| 5 |  El casco recibe un fuerte golpe (Simulando un accidente) y su familiar o medico recibe el SMS de ayuda. | Carlos Daniel | 
+|  HU002 | Yo Ricardo Alexis quiero que el dispositivo me permita recibir llamadas.  |  Podria   |  6  |  Un contacto de Ricardo Alexis le realiza una llamada y esta se efectúa correctamente. |  Carlos Daniel  |
 |    |                     |           |            |               |             |
 
 ## Prototipo en dibujo
