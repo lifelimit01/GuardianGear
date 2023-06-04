@@ -19,12 +19,13 @@
 |2|NodeMCU| El módulo NodeMCU se utiliza ampliamente en proyectos de Internet de las cosas (IoT) debido a su conectividad Wi-Fi integrada y su capacidad para interactuar con otros dispositivos a través de internet| ![image](https://github.com/Carlos-Soto-L/GuardianGear/assets/67080087/69bcc73b-a2dc-4b7c-b699-55e9e6be8d8a) |$200.00| 1 |
 |3| Microfono | Modulo que nos permite enviar audio para hacer posible la realización de llamadas. | ![image](https://github.com/Carlos-Soto-L/GuardianGear/assets/67080087/4e970429-06e0-476c-a05b-22f15a433fe5)|$60.00|1|
 |4| Altavoz | Dispositivo que nos permite la salida de audio, con el objetivo de realizar llamadas.| ![image](https://github.com/Carlos-Soto-L/GuardianGear/assets/67080087/5cb044ab-694e-45f1-9519-ed259cd53ff4)| $15.00|1|
+|5| Hc-sr04 | Es un sensor de distancias por ultrasonidos capaz de detectar objetos y calcular la distancia| ![image](https://github.com/Carlos-Soto-L/GuardianGear/assets/67080087/ccb820ab-b155-4f88-affd-97be68277525) | $63.00 | 1 |
 
 ## Tabla de Software utilizado
 | Id | Software | Version | Tipo |
 |----|----------|---------|------|
-|    |          |         |      |
-|    |          |         |      |
+|  SW001  |  Node-Red  |         |      |
+|  SW002  |  Arduino IDE |         |      |
 |    |          |         |      |
 
 
@@ -33,7 +34,8 @@
 |----|---------------------|-----------|------------|---------------|-------------|
 |  HU001 | Yo Ricardo Alexis quiero que el dispositivo envie un mensaje de texto (SMS) a un familiar o medico de confianza. |Debe| 5 |  El casco recibe un fuerte golpe (Simulando un accidente) y su familiar o medico recibe el SMS de ayuda. | Carlos Daniel | 
 |  HU002 | Yo Ricardo Alexis quiero que el dispositivo me permita recibir llamadas.  |  Podria   |  6  |  Un contacto de Ricardo Alexis le realiza una llamada y esta se efectúa correctamente. |  Carlos Daniel  |
-|    |                     |           |            |               |             |
+|  HU003  |  Yo Ricardo Alexis quiero detectar obstáculos que estén cerca de mi, para así poder evitar accidentes, ya que resultara útil en entornos donde no haiga mucha visibilidad     |   Debe    | 1  | El sensor al detectar un obstáculo muy cerca a mi, este enviará una advertencia o activara una alarma | Jairo Barrón  |
+|  HU004  | Yo Ricardo Alexis quiero rastrear la ubicación del casco, por lo tanto, la ubicación siempre será en tiempo real | Podría | 1 | En el monitor remoto debe aparecerá la ubucacion del casco, siempre y cuadno este cuente con acceso a internet. |  Jairo Barrón  |
 
 ## Prototipo en dibujo
 - Coloca la fotografia de tu prototipo dibujado a lapiz
