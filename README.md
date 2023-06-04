@@ -2,10 +2,11 @@
 ## Objetivo del proyecto
 
 ## Integrantes
-- Carlos Daniel Soto Ledezma
-- Carlos Eduardo Rangel Lozano
-- Jairo Barron Loza
-- Ricardo Alexis Rioyos Ramirez
+- 1220100361 - Carlos Daniel Soto Ledezma. 
+- 1219100777 - Carlos Eduardo Rangel Lozano.       
+- 1220100006 - Jairo Barron Loza.                  
+- 1219100566 - Ricardo Alexis Rioyos Ramirez.
+- 1220100074 - Ana Isabel Jasso Velazquez.         
 
 ## Beneficiario
 - 
