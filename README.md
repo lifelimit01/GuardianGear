@@ -13,7 +13,10 @@
 ## Hardware
 | Num. | Componente | Descripción | Imagen | Costo | Cantidad |
 |----|-------|----|---|--|---|
-|1|Raspberry Pi 4|Microcomputador reciente| ![imagen](https://github.com/tuxmex/ProjectDDI/assets/36056832/67535064-d6b7-4d47-8071-18bec6a88bc8)| $ 2500.00|<img src="https://github.com/tuxmex/ProjectDDI/assets/36056832/67535064-d6b7-4d47-8071-18bec6a88bc8" width="50px" />|
+|1|SIM800L|El módulo SIM800L es un dispositivo de comunicación compacto y altamente integrado diseñado para permitir la comunicación de datos y voz en redes de telecomunicaciones móviles. | ![image](https://github.com/Carlos-Soto-L/GuardianGear/assets/67080087/5772f001-a07f-4db7-b917-088df8981e13)|$150.00| 1 |
+|2|NodeMCU| El módulo NodeMCU se utiliza ampliamente en proyectos de Internet de las cosas (IoT) debido a su conectividad Wi-Fi integrada y su capacidad para interactuar con otros dispositivos a través de internet| ![image](https://github.com/Carlos-Soto-L/GuardianGear/assets/67080087/69bcc73b-a2dc-4b7c-b699-55e9e6be8d8a) |$200.00| 1 |
+|3| Microfono | Modulo que nos permite enviar audio para hacer posible la realización de llamadas. | ![image](https://github.com/Carlos-Soto-L/GuardianGear/assets/67080087/4e970429-06e0-476c-a05b-22f15a433fe5)|$60.00|1|
+|4| Altavoz | Dispositivo que nos permite la salida de audio, con el objetivo de realizar llamadas.| ![image](https://github.com/Carlos-Soto-L/GuardianGear/assets/67080087/5cb044ab-694e-45f1-9519-ed259cd53ff4)| $15.00|1|
 
 ## Tabla de Software utilizado
 | Id | Software | Version | Tipo |
