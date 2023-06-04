@@ -1,5 +1,6 @@
 # GuardianGear
 ## Objetivo del proyecto
+- Desarrollo de un casco inteligente para mejorar la seguridad y la experiencia del usuario al realizar actividades al aire libre.
 
 ## Integrantes
 - 1220100361 - Carlos Daniel Soto Ledezma. 
